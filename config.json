@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "simple-calculator",
+      "title": "Simple Calculator",
+      "description": "Build a command-line calculator that performs basic arithmetic and handles input errors.",
+      "path": "assignments/simple-calculator",
+      "dueDate": "2026-03-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
